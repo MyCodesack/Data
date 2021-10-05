@@ -1,2 +1,2 @@
 # Data
-New rules of C.
+New rules of C language.
